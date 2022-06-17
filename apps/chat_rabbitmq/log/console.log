@@ -1,0 +1,857 @@
+2022-06-10 15:47:53.245 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 15:47:53.248 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 15:47:53.255 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 15:47:53.255 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 15:47:53.255 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 15:47:53.255 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 15:47:53.313 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 15:47:53.313 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 15:47:53.326 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 15:47:53.329 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 15:47:53.330 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-10 15:54:50.138 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 15:54:50.140 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 15:54:50.150 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 15:54:50.150 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 15:54:50.150 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 15:54:50.150 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 15:54:50.201 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 15:54:50.201 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 15:54:50.217 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 15:54:50.222 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 15:54:50.223 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-10 15:55:45.360 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 15:55:45.363 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 15:55:45.370 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 15:55:45.370 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 15:55:45.370 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 15:55:45.370 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 15:55:45.423 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 15:55:45.423 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 15:55:45.438 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 15:55:45.442 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 15:55:45.444 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-10 16:05:09.421 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 16:05:09.423 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 16:05:09.427 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 16:05:09.427 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 16:05:09.427 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 16:05:09.427 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 16:05:09.474 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 16:05:09.474 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 16:05:09.482 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 16:05:09.484 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 16:05:09.485 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-10 16:10:16.328 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 16:10:16.332 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 16:10:16.339 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 16:10:16.339 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 16:10:16.339 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 16:10:16.339 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 16:10:16.398 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 16:10:16.398 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 16:10:16.408 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 16:10:16.410 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 16:10:16.417 [error] <0.302.0> CRASH REPORT Process <0.302.0> with 0 neighbours exited with reason: #{'__exception__' => true,'__struct__' => 'Elixir.ArgumentError',message => <<"The module ChatRabbitmq.SendMessage was given as a child to a supervisor but it does not exist.">>} in 'Elixir.Supervisor':init_child/1 line 631 in application_master:init/4 line 142
+2022-06-10 16:10:16.418 [info] <0.44.0> Application chat_rabbitmq exited with reason: #{'__exception__' => true,'__struct__' => 'Elixir.ArgumentError',message => <<"The module ChatRabbitmq.SendMessage was given as a child to a supervisor but it does not exist.">>} in 'Elixir.Supervisor':init_child/1 line 631
+2022-06-10 16:10:16.427 [info] <0.44.0> Application amqp exited with reason: stopped
+2022-06-10 16:10:16.431 [info] <0.44.0> Application amqp_client exited with reason: stopped
+2022-06-10 16:10:16.431 [info] <0.44.0> Application rabbit_common exited with reason: stopped
+2022-06-10 16:10:16.432 [info] <0.44.0> Application credentials_obfuscation exited with reason: stopped
+2022-06-10 16:10:16.432 [info] <0.44.0> Application recon exited with reason: stopped
+2022-06-10 16:10:16.432 [info] <0.44.0> Application jsx exited with reason: stopped
+2022-06-10 16:10:16.432 [info] <0.44.0> Application tools exited with reason: stopped
+2022-06-10 16:10:16.433 [info] <0.44.0> Application sasl exited with reason: stopped
+2022-06-10 16:10:16.433 [info] <0.44.0> Application xmerl exited with reason: stopped
+2022-06-10 16:12:20.596 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 16:12:20.599 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 16:12:20.604 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 16:12:20.604 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 16:12:20.604 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 16:12:20.605 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 16:12:20.662 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 16:12:20.662 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 16:12:20.676 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 16:12:20.679 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 16:12:20.686 [error] <0.300.0> CRASH REPORT Process <0.300.0> with 0 neighbours exited with reason: #{'__exception__' => true,'__struct__' => 'Elixir.ArgumentError',message => <<"The module ChatRabbitmq.Worker was given as a child to a supervisor but it does not exist.">>} in 'Elixir.Supervisor':init_child/1 line 631 in application_master:init/4 line 142
+2022-06-10 16:12:20.687 [info] <0.44.0> Application chat_rabbitmq exited with reason: #{'__exception__' => true,'__struct__' => 'Elixir.ArgumentError',message => <<"The module ChatRabbitmq.Worker was given as a child to a supervisor but it does not exist.">>} in 'Elixir.Supervisor':init_child/1 line 631
+2022-06-10 16:12:20.695 [info] <0.44.0> Application amqp exited with reason: stopped
+2022-06-10 16:12:20.698 [info] <0.44.0> Application amqp_client exited with reason: stopped
+2022-06-10 16:12:20.698 [info] <0.44.0> Application rabbit_common exited with reason: stopped
+2022-06-10 16:12:20.699 [info] <0.44.0> Application credentials_obfuscation exited with reason: stopped
+2022-06-10 16:12:20.699 [info] <0.44.0> Application recon exited with reason: stopped
+2022-06-10 16:12:20.699 [info] <0.44.0> Application jsx exited with reason: stopped
+2022-06-10 16:12:20.699 [info] <0.44.0> Application tools exited with reason: stopped
+2022-06-10 16:12:20.699 [info] <0.44.0> Application sasl exited with reason: stopped
+2022-06-10 16:12:20.700 [info] <0.44.0> Application xmerl exited with reason: stopped
+2022-06-10 16:13:28.763 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 16:13:28.766 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 16:13:28.771 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 16:13:28.771 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 16:13:28.772 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 16:13:28.772 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 16:13:28.827 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 16:13:28.827 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 16:13:28.836 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 16:13:28.840 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 16:13:28.847 [error] <0.290.0> CRASH REPORT Process <0.290.0> with 0 neighbours exited with reason: #{'__exception__' => true,'__struct__' => 'Elixir.ArgumentError',message => <<"The module ChatRabbitmq.Worker was given as a child to a supervisor but it does not exist.">>} in 'Elixir.Supervisor':init_child/1 line 631 in application_master:init/4 line 142
+2022-06-10 16:13:28.848 [info] <0.44.0> Application chat_rabbitmq exited with reason: #{'__exception__' => true,'__struct__' => 'Elixir.ArgumentError',message => <<"The module ChatRabbitmq.Worker was given as a child to a supervisor but it does not exist.">>} in 'Elixir.Supervisor':init_child/1 line 631
+2022-06-10 16:13:28.861 [info] <0.44.0> Application amqp exited with reason: stopped
+2022-06-10 16:13:28.863 [info] <0.44.0> Application amqp_client exited with reason: stopped
+2022-06-10 16:13:28.863 [info] <0.44.0> Application rabbit_common exited with reason: stopped
+2022-06-10 16:13:28.864 [info] <0.44.0> Application credentials_obfuscation exited with reason: stopped
+2022-06-10 16:13:28.864 [info] <0.44.0> Application recon exited with reason: stopped
+2022-06-10 16:13:28.864 [info] <0.44.0> Application jsx exited with reason: stopped
+2022-06-10 16:13:28.864 [info] <0.44.0> Application tools exited with reason: stopped
+2022-06-10 16:13:28.864 [info] <0.44.0> Application sasl exited with reason: stopped
+2022-06-10 16:13:28.865 [info] <0.44.0> Application xmerl exited with reason: stopped
+2022-06-10 16:14:43.891 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 16:14:43.894 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 16:14:43.899 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 16:14:43.899 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 16:14:43.899 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 16:14:43.900 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 16:14:43.958 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 16:14:43.958 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 16:14:43.972 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 16:14:43.978 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 16:14:43.988 [error] <0.300.0> CRASH REPORT Process <0.300.0> with 0 neighbours exited with reason: #{'__exception__' => true,'__struct__' => 'Elixir.ArgumentError',message => <<"The module ChatRabbitmq.Worker was given as a child to a supervisor but it does not exist.">>} in 'Elixir.Supervisor':init_child/1 line 631 in application_master:init/4 line 142
+2022-06-10 16:14:43.988 [info] <0.44.0> Application chat_rabbitmq exited with reason: #{'__exception__' => true,'__struct__' => 'Elixir.ArgumentError',message => <<"The module ChatRabbitmq.Worker was given as a child to a supervisor but it does not exist.">>} in 'Elixir.Supervisor':init_child/1 line 631
+2022-06-10 16:14:43.998 [info] <0.44.0> Application amqp exited with reason: stopped
+2022-06-10 16:14:44.001 [info] <0.44.0> Application amqp_client exited with reason: stopped
+2022-06-10 16:14:44.001 [info] <0.44.0> Application rabbit_common exited with reason: stopped
+2022-06-10 16:14:44.001 [info] <0.44.0> Application credentials_obfuscation exited with reason: stopped
+2022-06-10 16:14:44.001 [info] <0.44.0> Application recon exited with reason: stopped
+2022-06-10 16:14:44.001 [info] <0.44.0> Application jsx exited with reason: stopped
+2022-06-10 16:14:44.001 [info] <0.44.0> Application tools exited with reason: stopped
+2022-06-10 16:14:44.002 [info] <0.44.0> Application sasl exited with reason: stopped
+2022-06-10 16:14:44.002 [info] <0.44.0> Application xmerl exited with reason: stopped
+2022-06-10 16:15:35.271 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 16:15:35.276 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 16:15:35.282 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 16:15:35.282 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 16:15:35.283 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 16:15:35.283 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 16:15:35.326 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 16:15:35.326 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 16:15:35.334 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 16:15:35.336 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 16:15:35.343 [error] <0.290.0> CRASH REPORT Process <0.290.0> with 0 neighbours exited with reason: #{'__exception__' => true,'__struct__' => 'Elixir.ArgumentError',message => <<"The module ChatRabbitmq.Worker was given as a child to a supervisor but it does not exist.">>} in 'Elixir.Supervisor':init_child/1 line 631 in application_master:init/4 line 142
+2022-06-10 16:15:35.344 [info] <0.44.0> Application chat_rabbitmq exited with reason: #{'__exception__' => true,'__struct__' => 'Elixir.ArgumentError',message => <<"The module ChatRabbitmq.Worker was given as a child to a supervisor but it does not exist.">>} in 'Elixir.Supervisor':init_child/1 line 631
+2022-06-10 16:15:35.349 [info] <0.44.0> Application amqp exited with reason: stopped
+2022-06-10 16:15:35.351 [info] <0.44.0> Application amqp_client exited with reason: stopped
+2022-06-10 16:15:35.351 [info] <0.44.0> Application rabbit_common exited with reason: stopped
+2022-06-10 16:15:35.351 [info] <0.44.0> Application credentials_obfuscation exited with reason: stopped
+2022-06-10 16:15:35.351 [info] <0.44.0> Application recon exited with reason: stopped
+2022-06-10 16:15:35.351 [info] <0.44.0> Application jsx exited with reason: stopped
+2022-06-10 16:15:35.351 [info] <0.44.0> Application tools exited with reason: stopped
+2022-06-10 16:15:35.352 [info] <0.44.0> Application sasl exited with reason: stopped
+2022-06-10 16:15:35.352 [info] <0.44.0> Application xmerl exited with reason: stopped
+2022-06-10 16:16:59.193 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 16:16:59.196 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 16:16:59.202 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 16:16:59.203 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 16:16:59.203 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 16:16:59.203 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 16:16:59.245 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 16:16:59.245 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 16:16:59.252 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 16:16:59.255 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 16:16:59.262 [error] <0.292.0> CRASH REPORT Process <0.292.0> with 0 neighbours exited with reason: #{'__exception__' => true,'__struct__' => 'Elixir.ArgumentError',message => <<"The module ChatRabbitmq.Worker was given as a child to a supervisor but it does not exist.">>} in 'Elixir.Supervisor':init_child/1 line 631 in application_master:init/4 line 142
+2022-06-10 16:16:59.262 [info] <0.44.0> Application chat_rabbitmq exited with reason: #{'__exception__' => true,'__struct__' => 'Elixir.ArgumentError',message => <<"The module ChatRabbitmq.Worker was given as a child to a supervisor but it does not exist.">>} in 'Elixir.Supervisor':init_child/1 line 631
+2022-06-10 16:16:59.268 [info] <0.44.0> Application amqp exited with reason: stopped
+2022-06-10 16:16:59.270 [info] <0.44.0> Application amqp_client exited with reason: stopped
+2022-06-10 16:16:59.270 [info] <0.44.0> Application rabbit_common exited with reason: stopped
+2022-06-10 16:16:59.270 [info] <0.44.0> Application credentials_obfuscation exited with reason: stopped
+2022-06-10 16:16:59.270 [info] <0.44.0> Application recon exited with reason: stopped
+2022-06-10 16:16:59.270 [info] <0.44.0> Application jsx exited with reason: stopped
+2022-06-10 16:16:59.270 [info] <0.44.0> Application tools exited with reason: stopped
+2022-06-10 16:16:59.271 [info] <0.44.0> Application sasl exited with reason: stopped
+2022-06-10 16:16:59.271 [info] <0.44.0> Application xmerl exited with reason: stopped
+2022-06-10 16:17:09.492 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 16:17:09.496 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 16:17:09.502 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 16:17:09.502 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 16:17:09.502 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 16:17:09.502 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 16:17:09.548 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 16:17:09.548 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 16:17:09.555 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 16:17:09.558 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 16:17:09.565 [error] <0.290.0> CRASH REPORT Process <0.290.0> with 0 neighbours exited with reason: #{'__exception__' => true,'__struct__' => 'Elixir.ArgumentError',message => <<"The module ChatRabbitmq.Worker was given as a child to a supervisor but it does not exist.">>} in 'Elixir.Supervisor':init_child/1 line 631 in application_master:init/4 line 142
+2022-06-10 16:17:09.565 [info] <0.44.0> Application chat_rabbitmq exited with reason: #{'__exception__' => true,'__struct__' => 'Elixir.ArgumentError',message => <<"The module ChatRabbitmq.Worker was given as a child to a supervisor but it does not exist.">>} in 'Elixir.Supervisor':init_child/1 line 631
+2022-06-10 16:17:09.571 [info] <0.44.0> Application amqp exited with reason: stopped
+2022-06-10 16:17:09.573 [info] <0.44.0> Application amqp_client exited with reason: stopped
+2022-06-10 16:17:09.573 [info] <0.44.0> Application rabbit_common exited with reason: stopped
+2022-06-10 16:17:09.573 [info] <0.44.0> Application credentials_obfuscation exited with reason: stopped
+2022-06-10 16:17:09.573 [info] <0.44.0> Application recon exited with reason: stopped
+2022-06-10 16:17:09.573 [info] <0.44.0> Application jsx exited with reason: stopped
+2022-06-10 16:17:09.573 [info] <0.44.0> Application tools exited with reason: stopped
+2022-06-10 16:17:09.574 [info] <0.44.0> Application sasl exited with reason: stopped
+2022-06-10 16:17:09.574 [info] <0.44.0> Application xmerl exited with reason: stopped
+2022-06-10 16:18:06.205 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 16:18:06.208 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 16:18:06.213 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 16:18:06.214 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 16:18:06.214 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 16:18:06.214 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 16:18:06.268 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 16:18:06.268 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 16:18:06.277 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 16:18:06.283 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 16:18:06.293 [error] <0.290.0> CRASH REPORT Process <0.290.0> with 0 neighbours exited with reason: #{'__exception__' => true,'__struct__' => 'Elixir.ArgumentError',message => <<"The module ChatRabbitmq.Worker was given as a child to a supervisor but it does not exist.">>} in 'Elixir.Supervisor':init_child/1 line 631 in application_master:init/4 line 142
+2022-06-10 16:18:06.293 [info] <0.44.0> Application chat_rabbitmq exited with reason: #{'__exception__' => true,'__struct__' => 'Elixir.ArgumentError',message => <<"The module ChatRabbitmq.Worker was given as a child to a supervisor but it does not exist.">>} in 'Elixir.Supervisor':init_child/1 line 631
+2022-06-10 16:18:06.301 [info] <0.44.0> Application amqp exited with reason: stopped
+2022-06-10 16:18:06.303 [info] <0.44.0> Application amqp_client exited with reason: stopped
+2022-06-10 16:18:06.303 [info] <0.44.0> Application rabbit_common exited with reason: stopped
+2022-06-10 16:18:06.304 [info] <0.44.0> Application credentials_obfuscation exited with reason: stopped
+2022-06-10 16:18:06.304 [info] <0.44.0> Application recon exited with reason: stopped
+2022-06-10 16:18:06.305 [info] <0.44.0> Application jsx exited with reason: stopped
+2022-06-10 16:18:06.305 [info] <0.44.0> Application tools exited with reason: stopped
+2022-06-10 16:18:06.305 [info] <0.44.0> Application sasl exited with reason: stopped
+2022-06-10 16:18:06.305 [info] <0.44.0> Application xmerl exited with reason: stopped
+2022-06-10 16:18:57.329 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 16:18:57.331 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 16:18:57.342 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 16:18:57.342 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 16:18:57.343 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 16:18:57.343 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 16:18:57.383 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 16:18:57.384 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 16:18:57.392 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 16:18:57.394 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 16:18:57.395 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-10 16:19:29.329 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 16:19:29.332 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 16:19:29.336 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 16:19:29.336 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 16:19:29.336 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 16:19:29.336 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 16:19:29.379 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 16:19:29.379 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 16:19:29.387 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 16:19:29.390 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 16:19:38.033 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 16:19:38.036 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 16:19:38.043 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 16:19:38.043 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 16:19:38.043 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 16:19:38.043 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 16:19:38.091 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 16:19:38.091 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 16:19:38.098 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 16:19:38.102 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 16:20:41.555 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 16:20:41.557 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 16:20:41.563 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 16:20:41.563 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 16:20:41.563 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 16:20:41.563 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 16:20:41.617 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 16:20:41.617 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 16:20:41.626 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 16:20:41.629 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 16:20:41.630 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-10 16:23:34.916 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 16:23:34.918 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 16:23:34.922 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 16:23:34.922 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 16:23:34.923 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 16:23:34.923 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 16:23:34.964 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 16:23:34.964 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 16:23:34.976 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 16:23:34.979 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 16:23:57.809 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 16:23:57.812 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 16:23:57.817 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 16:23:57.817 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 16:23:57.817 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 16:23:57.817 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 16:23:57.871 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 16:23:57.871 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 16:23:57.881 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 16:23:57.886 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 16:24:47.770 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 16:24:47.774 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 16:24:47.782 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 16:24:47.782 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 16:24:47.782 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 16:24:47.782 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 16:24:47.840 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 16:24:47.840 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 16:24:47.849 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 16:24:47.852 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 16:24:47.854 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-10 16:26:41.019 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 16:26:41.021 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 16:26:41.025 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 16:26:41.025 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 16:26:41.025 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 16:26:41.026 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 16:26:41.075 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 16:26:41.075 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 16:26:41.084 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 16:26:41.087 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 16:26:41.088 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-10 16:29:30.814 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 16:29:30.817 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 16:29:30.827 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 16:29:30.827 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 16:29:30.827 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 16:29:30.827 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 16:29:30.873 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 16:29:30.873 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 16:29:30.880 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 16:29:30.882 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 16:29:30.883 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-10 16:29:44.481 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 16:29:44.483 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 16:29:44.489 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 16:29:44.489 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 16:29:44.489 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 16:29:44.489 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 16:29:44.536 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 16:29:44.536 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 16:29:44.544 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 16:29:44.547 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 16:29:44.548 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-10 16:31:12.763 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 16:31:12.766 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 16:31:12.772 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 16:31:12.772 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 16:31:12.772 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 16:31:12.772 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 16:31:12.814 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 16:31:12.815 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 16:31:12.822 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 16:31:12.824 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 16:31:12.825 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-10 16:32:52.427 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 16:32:52.430 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 16:32:52.436 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 16:32:52.436 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 16:32:52.436 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 16:32:52.436 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 16:32:52.491 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 16:32:52.491 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 16:32:52.500 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 16:32:52.504 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 16:32:52.505 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-10 16:37:01.846 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 16:37:01.851 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 16:37:01.857 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 16:37:01.857 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 16:37:01.858 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 16:37:01.858 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 16:37:01.911 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 16:37:01.911 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 16:37:01.920 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 16:37:01.923 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 16:37:01.924 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-10 16:37:33.529 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 16:37:33.533 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 16:37:33.539 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 16:37:33.539 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 16:37:33.539 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 16:37:33.539 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 16:37:33.581 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 16:37:33.581 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 16:37:33.589 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 16:37:33.591 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 16:37:33.593 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-10 16:40:43.085 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 16:40:43.089 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 16:40:43.096 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 16:40:43.096 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 16:40:43.096 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 16:40:43.096 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 16:40:43.142 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 16:40:43.142 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 16:40:43.150 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 16:40:43.152 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 16:40:43.153 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-10 16:41:27.360 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 16:41:27.363 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 16:41:27.367 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 16:41:27.367 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 16:41:27.367 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 16:41:27.367 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 16:41:27.412 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 16:41:27.412 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 16:41:27.419 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 16:41:27.422 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 16:41:27.423 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-10 16:42:40.712 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 16:42:40.714 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 16:42:40.724 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 16:42:40.724 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 16:42:40.724 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 16:42:40.724 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 16:42:40.770 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 16:42:40.770 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 16:42:40.784 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 16:42:40.788 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 16:42:40.788 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-10 16:42:53.504 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 16:42:53.507 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 16:42:53.513 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 16:42:53.513 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 16:42:53.513 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 16:42:53.513 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 16:42:53.567 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 16:42:53.567 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 16:42:53.577 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 16:42:53.580 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 16:42:53.581 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-10 16:43:14.351 [error] <0.304.0> gen_server worker terminated with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um nome vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 24
+2022-06-10 16:43:14.361 [error] <0.304.0> CRASH REPORT Process worker with 0 neighbours crashed with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um nome vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 24
+2022-06-10 16:43:14.361 [error] <0.303.0> Supervisor 'Elixir.ChatRabbitmq.Supervisor' had child 'Elixir.ChatRabbitmq.Worker' started with 'Elixir.ChatRabbitmq.Worker':start_link(nil) at <0.304.0> exit with reason #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um nome vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 24 in context child_terminated
+2022-06-10 16:45:44.626 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 16:45:44.628 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 16:45:44.634 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 16:45:44.634 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 16:45:44.635 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 16:45:44.635 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 16:45:44.687 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 16:45:44.687 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 16:45:44.697 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 16:45:44.701 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 16:45:44.702 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-10 16:45:56.982 [error] <0.304.0> gen_server worker terminated with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19
+2022-06-10 16:45:56.989 [error] <0.304.0> CRASH REPORT Process worker with 0 neighbours crashed with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19
+2022-06-10 16:45:56.989 [error] <0.303.0> Supervisor 'Elixir.ChatRabbitmq.Supervisor' had child 'Elixir.ChatRabbitmq.Worker' started with 'Elixir.ChatRabbitmq.Worker':start_link(nil) at <0.304.0> exit with reason #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19 in context child_terminated
+2022-06-10 16:45:59.181 [error] <0.322.0> gen_server worker terminated with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19
+2022-06-10 16:45:59.181 [error] <0.322.0> CRASH REPORT Process worker with 0 neighbours crashed with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19
+2022-06-10 16:45:59.181 [error] <0.303.0> Supervisor 'Elixir.ChatRabbitmq.Supervisor' had child 'Elixir.ChatRabbitmq.Worker' started with 'Elixir.ChatRabbitmq.Worker':start_link(nil) at <0.322.0> exit with reason #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19 in context child_terminated
+2022-06-10 16:46:01.039 [error] <0.336.0> gen_server worker terminated with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19
+2022-06-10 16:46:01.039 [error] <0.336.0> CRASH REPORT Process worker with 0 neighbours crashed with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19
+2022-06-10 16:46:01.039 [error] <0.303.0> Supervisor 'Elixir.ChatRabbitmq.Supervisor' had child 'Elixir.ChatRabbitmq.Worker' started with 'Elixir.ChatRabbitmq.Worker':start_link(nil) at <0.336.0> exit with reason #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19 in context child_terminated
+2022-06-10 16:46:02.894 [error] <0.350.0> gen_server worker terminated with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19
+2022-06-10 16:46:02.895 [error] <0.350.0> CRASH REPORT Process worker with 0 neighbours crashed with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19
+2022-06-10 16:46:02.895 [error] <0.303.0> Supervisor 'Elixir.ChatRabbitmq.Supervisor' had child 'Elixir.ChatRabbitmq.Worker' started with 'Elixir.ChatRabbitmq.Worker':start_link(nil) at <0.350.0> exit with reason #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19 in context child_terminated
+2022-06-10 16:46:04.615 [error] <0.364.0> gen_server worker terminated with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19
+2022-06-10 16:46:04.615 [error] <0.364.0> CRASH REPORT Process worker with 0 neighbours crashed with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19
+2022-06-10 16:46:04.616 [error] <0.303.0> Supervisor 'Elixir.ChatRabbitmq.Supervisor' had child 'Elixir.ChatRabbitmq.Worker' started with 'Elixir.ChatRabbitmq.Worker':start_link(nil) at <0.364.0> exit with reason #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19 in context child_terminated
+2022-06-10 16:46:04.616 [error] <0.303.0> Supervisor 'Elixir.ChatRabbitmq.Supervisor' had child 'Elixir.ChatRabbitmq.Worker' started with 'Elixir.ChatRabbitmq.Worker':start_link(nil) at <0.364.0> exit with reason reached_max_restart_intensity in context shutdown
+2022-06-10 16:46:04.616 [info] <0.44.0> Application chat_rabbitmq exited with reason: shutdown
+2022-06-10 16:46:24.016 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 16:46:24.018 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 16:46:24.027 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 16:46:24.027 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 16:46:24.027 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 16:46:24.027 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 16:46:24.072 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 16:46:24.072 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 16:46:24.086 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 16:46:24.091 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 16:46:24.093 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-10 16:46:29.958 [error] <0.304.0> gen_server worker terminated with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19
+2022-06-10 16:46:29.965 [error] <0.304.0> CRASH REPORT Process worker with 0 neighbours crashed with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19
+2022-06-10 16:46:29.965 [error] <0.303.0> Supervisor 'Elixir.ChatRabbitmq.Supervisor' had child 'Elixir.ChatRabbitmq.Worker' started with 'Elixir.ChatRabbitmq.Worker':start_link(nil) at <0.304.0> exit with reason #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19 in context child_terminated
+2022-06-10 16:46:31.318 [error] <0.322.0> gen_server worker terminated with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19
+2022-06-10 16:46:31.318 [error] <0.322.0> CRASH REPORT Process worker with 0 neighbours crashed with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19
+2022-06-10 16:46:31.319 [error] <0.303.0> Supervisor 'Elixir.ChatRabbitmq.Supervisor' had child 'Elixir.ChatRabbitmq.Worker' started with 'Elixir.ChatRabbitmq.Worker':start_link(nil) at <0.322.0> exit with reason #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19 in context child_terminated
+2022-06-10 16:46:36.646 [error] <0.336.0> gen_server worker terminated with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19
+2022-06-10 16:46:36.646 [error] <0.336.0> CRASH REPORT Process worker with 0 neighbours crashed with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19
+2022-06-10 16:46:36.646 [error] <0.303.0> Supervisor 'Elixir.ChatRabbitmq.Supervisor' had child 'Elixir.ChatRabbitmq.Worker' started with 'Elixir.ChatRabbitmq.Worker':start_link(nil) at <0.336.0> exit with reason #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19 in context child_terminated
+2022-06-10 16:46:38.599 [error] <0.350.0> gen_server worker terminated with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19
+2022-06-10 16:46:38.599 [error] <0.350.0> CRASH REPORT Process worker with 0 neighbours crashed with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19
+2022-06-10 16:46:38.599 [error] <0.303.0> Supervisor 'Elixir.ChatRabbitmq.Supervisor' had child 'Elixir.ChatRabbitmq.Worker' started with 'Elixir.ChatRabbitmq.Worker':start_link(nil) at <0.350.0> exit with reason #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19 in context child_terminated
+2022-06-10 16:46:51.063 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 16:46:51.067 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 16:46:51.076 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 16:46:51.076 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 16:46:51.076 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 16:46:51.076 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 16:46:51.124 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 16:46:51.124 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 16:46:51.131 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 16:46:51.134 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 16:46:51.136 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-10 16:47:53.911 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 16:47:53.915 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 16:47:53.922 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 16:47:53.922 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 16:47:53.922 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 16:47:53.922 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 16:47:53.967 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 16:47:53.967 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 16:47:53.975 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 16:47:53.980 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 16:47:53.981 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-10 16:48:30.308 [error] <0.304.0> gen_server worker terminated with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19
+2022-06-10 16:48:30.310 [error] <0.304.0> CRASH REPORT Process worker with 0 neighbours crashed with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19
+2022-06-10 16:48:30.310 [error] <0.303.0> Supervisor 'Elixir.ChatRabbitmq.Supervisor' had child 'Elixir.ChatRabbitmq.Worker' started with 'Elixir.ChatRabbitmq.Worker':start_link(nil) at <0.304.0> exit with reason #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19 in context child_terminated
+2022-06-10 16:48:31.500 [error] <0.322.0> gen_server worker terminated with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19
+2022-06-10 16:48:31.500 [error] <0.322.0> CRASH REPORT Process worker with 0 neighbours crashed with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19
+2022-06-10 16:48:31.500 [error] <0.303.0> Supervisor 'Elixir.ChatRabbitmq.Supervisor' had child 'Elixir.ChatRabbitmq.Worker' started with 'Elixir.ChatRabbitmq.Worker':start_link(nil) at <0.322.0> exit with reason #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19 in context child_terminated
+2022-06-10 16:48:32.958 [error] <0.336.0> gen_server worker terminated with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19
+2022-06-10 16:48:32.958 [error] <0.336.0> CRASH REPORT Process worker with 0 neighbours crashed with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19
+2022-06-10 16:48:32.958 [error] <0.303.0> Supervisor 'Elixir.ChatRabbitmq.Supervisor' had child 'Elixir.ChatRabbitmq.Worker' started with 'Elixir.ChatRabbitmq.Worker':start_link(nil) at <0.336.0> exit with reason #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19 in context child_terminated
+2022-06-10 16:48:33.535 [error] <0.350.0> gen_server worker terminated with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19
+2022-06-10 16:48:33.535 [error] <0.350.0> CRASH REPORT Process worker with 0 neighbours crashed with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19
+2022-06-10 16:48:33.535 [error] <0.303.0> Supervisor 'Elixir.ChatRabbitmq.Supervisor' had child 'Elixir.ChatRabbitmq.Worker' started with 'Elixir.ChatRabbitmq.Worker':start_link(nil) at <0.350.0> exit with reason #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19 in context child_terminated
+2022-06-10 16:48:33.536 [error] <0.303.0> Supervisor 'Elixir.ChatRabbitmq.Supervisor' had child 'Elixir.ChatRabbitmq.Worker' started with 'Elixir.ChatRabbitmq.Worker':start_link(nil) at <0.350.0> exit with reason reached_max_restart_intensity in context shutdown
+2022-06-10 16:48:33.536 [info] <0.44.0> Application chat_rabbitmq exited with reason: shutdown
+2022-06-10 16:48:57.593 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-10 16:48:57.597 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-10 16:48:57.602 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-10 16:48:57.602 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-10 16:48:57.602 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-10 16:48:57.602 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-10 16:48:57.649 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-10 16:48:57.649 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-10 16:48:57.657 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-10 16:48:57.659 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-10 16:48:57.660 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-10 16:49:18.019 [error] <0.304.0> gen_server worker terminated with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19
+2022-06-10 16:49:18.025 [error] <0.304.0> CRASH REPORT Process worker with 0 neighbours crashed with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19
+2022-06-10 16:49:18.025 [error] <0.303.0> Supervisor 'Elixir.ChatRabbitmq.Supervisor' had child 'Elixir.ChatRabbitmq.Worker' started with 'Elixir.ChatRabbitmq.Worker':start_link(nil) at <0.304.0> exit with reason #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19 in context child_terminated
+2022-06-10 16:49:18.645 [error] <0.322.0> gen_server worker terminated with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19
+2022-06-10 16:49:18.645 [error] <0.322.0> CRASH REPORT Process worker with 0 neighbours crashed with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19
+2022-06-10 16:49:18.645 [error] <0.303.0> Supervisor 'Elixir.ChatRabbitmq.Supervisor' had child 'Elixir.ChatRabbitmq.Worker' started with 'Elixir.ChatRabbitmq.Worker':start_link(nil) at <0.322.0> exit with reason #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19 in context child_terminated
+2022-06-10 16:49:19.263 [error] <0.336.0> gen_server worker terminated with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19
+2022-06-10 16:49:19.263 [error] <0.336.0> CRASH REPORT Process worker with 0 neighbours crashed with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19
+2022-06-10 16:49:19.263 [error] <0.303.0> Supervisor 'Elixir.ChatRabbitmq.Supervisor' had child 'Elixir.ChatRabbitmq.Worker' started with 'Elixir.ChatRabbitmq.Worker':start_link(nil) at <0.336.0> exit with reason #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19 in context child_terminated
+2022-06-10 16:49:19.846 [error] <0.350.0> gen_server worker terminated with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19
+2022-06-10 16:49:19.846 [error] <0.350.0> CRASH REPORT Process worker with 0 neighbours crashed with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19
+2022-06-10 16:49:19.847 [error] <0.303.0> Supervisor 'Elixir.ChatRabbitmq.Supervisor' had child 'Elixir.ChatRabbitmq.Worker' started with 'Elixir.ChatRabbitmq.Worker':start_link(nil) at <0.350.0> exit with reason #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.Worker':handle_cast/2 line 19 in context child_terminated
+2022-06-10 16:49:19.847 [error] <0.303.0> Supervisor 'Elixir.ChatRabbitmq.Supervisor' had child 'Elixir.ChatRabbitmq.Worker' started with 'Elixir.ChatRabbitmq.Worker':start_link(nil) at <0.350.0> exit with reason reached_max_restart_intensity in context shutdown
+2022-06-10 16:49:19.847 [info] <0.44.0> Application chat_rabbitmq exited with reason: shutdown
+2022-06-13 14:31:26.259 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-13 14:31:26.264 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-13 14:31:26.301 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-13 14:31:26.301 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-13 14:31:26.301 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-13 14:31:26.301 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-13 14:31:26.387 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-13 14:31:26.387 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-13 14:31:26.421 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-13 14:31:26.424 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-13 14:31:26.424 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-13 14:34:15.840 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-13 14:34:15.842 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-13 14:34:15.847 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-13 14:34:15.848 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-13 14:34:15.848 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-13 14:34:15.848 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-13 14:34:15.891 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-13 14:34:15.891 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-13 14:34:15.900 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-13 14:34:15.904 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-13 14:34:15.907 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-13 14:34:42.773 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-13 14:34:42.775 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-13 14:34:42.782 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-13 14:34:42.782 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-13 14:34:42.782 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-13 14:34:42.782 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-13 14:34:42.832 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-13 14:34:42.832 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-13 14:34:42.845 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-13 14:34:42.851 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-13 14:34:42.852 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-13 14:49:06.360 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-13 14:49:06.361 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-13 14:49:06.361 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-13 14:49:06.403 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-13 14:49:06.403 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-13 14:49:06.414 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-13 14:50:05.380 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-13 14:50:05.383 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-13 14:50:05.383 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-13 14:50:05.434 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-13 14:50:05.434 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-13 14:50:05.445 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-13 14:50:27.184 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-13 14:50:27.187 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-13 14:50:27.194 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-13 14:50:27.194 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-13 14:50:27.194 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-13 14:50:27.195 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-13 14:50:27.245 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-13 14:50:27.245 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-13 14:50:27.253 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-13 14:50:27.257 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-13 14:50:27.265 [error] <0.306.0> CRASH REPORT Process <0.306.0> with 0 neighbours exited with reason: #{'__exception__' => true,'__struct__' => 'Elixir.ArgumentError',message => <<"The module ChatRabbitmq.WorkerReceiveMessage was given as a child to a supervisor but it does not exist.">>} in 'Elixir.Supervisor':init_child/1 line 631 in application_master:init/4 line 142
+2022-06-13 14:50:27.265 [info] <0.44.0> Application chat_rabbitmq exited with reason: #{'__exception__' => true,'__struct__' => 'Elixir.ArgumentError',message => <<"The module ChatRabbitmq.WorkerReceiveMessage was given as a child to a supervisor but it does not exist.">>} in 'Elixir.Supervisor':init_child/1 line 631
+2022-06-13 14:50:27.272 [info] <0.44.0> Application amqp exited with reason: stopped
+2022-06-13 14:50:27.335 [info] <0.44.0> Application amqp_client exited with reason: stopped
+2022-06-13 14:50:27.335 [info] <0.44.0> Application rabbit_common exited with reason: stopped
+2022-06-13 14:50:27.337 [info] <0.44.0> Application credentials_obfuscation exited with reason: stopped
+2022-06-13 14:50:27.337 [info] <0.44.0> Application recon exited with reason: stopped
+2022-06-13 14:50:27.337 [info] <0.44.0> Application jsx exited with reason: stopped
+2022-06-13 14:50:27.337 [info] <0.44.0> Application tools exited with reason: stopped
+2022-06-13 14:50:27.338 [info] <0.44.0> Application sasl exited with reason: stopped
+2022-06-13 14:50:27.338 [info] <0.44.0> Application xmerl exited with reason: stopped
+2022-06-13 14:50:46.190 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-13 14:50:46.194 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-13 14:50:46.202 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-13 14:50:46.202 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-13 14:50:46.203 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-13 14:50:46.203 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-13 14:50:46.271 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-13 14:50:46.271 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-13 14:50:46.283 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-13 14:50:46.288 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-13 14:50:46.289 [error] <0.310.0> Supervisor 'Elixir.ChatRabbitmq.Supervisor' had child 'Elixir.ChatRabbitmq.WorkerReceiveMessage' started with 'Elixir.ChatRabbitmq.WorkerReceiveMessage':start_link(nil) at undefined exit with reason {already_started,<0.311.0>} in context start_error
+2022-06-13 14:50:46.290 [error] <0.308.0> CRASH REPORT Process <0.308.0> with 0 neighbours exited with reason: {{shutdown,{failed_to_start_child,'Elixir.ChatRabbitmq.WorkerReceiveMessage',{already_started,<0.311.0>}}},{'Elixir.ChatRabbitmq.Application',start,[normal,[]]}} in application_master:init/4 line 142
+2022-06-13 14:50:46.290 [info] <0.44.0> Application chat_rabbitmq exited with reason: {{shutdown,{failed_to_start_child,'Elixir.ChatRabbitmq.WorkerReceiveMessage',{already_started,<0.311.0>}}},{'Elixir.ChatRabbitmq.Application',start,[normal,[]]}}
+2022-06-13 14:50:46.334 [info] <0.44.0> Application amqp exited with reason: stopped
+2022-06-13 14:50:46.340 [info] <0.44.0> Application amqp_client exited with reason: stopped
+2022-06-13 14:50:46.340 [info] <0.44.0> Application rabbit_common exited with reason: stopped
+2022-06-13 14:50:46.341 [info] <0.44.0> Application credentials_obfuscation exited with reason: stopped
+2022-06-13 14:50:46.341 [info] <0.44.0> Application recon exited with reason: stopped
+2022-06-13 14:50:46.341 [info] <0.44.0> Application jsx exited with reason: stopped
+2022-06-13 14:50:46.342 [info] <0.44.0> Application tools exited with reason: stopped
+2022-06-13 14:50:46.342 [info] <0.44.0> Application sasl exited with reason: stopped
+2022-06-13 14:50:46.342 [info] <0.44.0> Application xmerl exited with reason: stopped
+2022-06-13 14:51:08.595 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-13 14:51:08.597 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-13 14:51:08.606 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-13 14:51:08.607 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-13 14:51:08.607 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-13 14:51:08.607 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-13 14:51:08.661 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-13 14:51:08.661 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-13 14:51:08.670 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-13 14:51:08.676 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-13 14:51:08.683 [error] <0.303.0> Supervisor 'Elixir.ChatRabbitmq.Supervisor' had child 'Elixir.ChatRabbitmq.WorkerReceiveMessage' started with 'Elixir.ChatRabbitmq.WorkerReceiveMessage':start_link(nil) at undefined exit with reason {already_started,<0.304.0>} in context start_error
+2022-06-13 14:51:08.683 [error] <0.301.0> CRASH REPORT Process <0.301.0> with 0 neighbours exited with reason: {{shutdown,{failed_to_start_child,'Elixir.ChatRabbitmq.WorkerReceiveMessage',{already_started,<0.304.0>}}},{'Elixir.ChatRabbitmq.Application',start,[normal,[]]}} in application_master:init/4 line 142
+2022-06-13 14:51:08.683 [info] <0.44.0> Application chat_rabbitmq exited with reason: {{shutdown,{failed_to_start_child,'Elixir.ChatRabbitmq.WorkerReceiveMessage',{already_started,<0.304.0>}}},{'Elixir.ChatRabbitmq.Application',start,[normal,[]]}}
+2022-06-13 14:51:08.690 [info] <0.44.0> Application amqp exited with reason: stopped
+2022-06-13 14:51:08.693 [info] <0.44.0> Application amqp_client exited with reason: stopped
+2022-06-13 14:51:08.693 [info] <0.44.0> Application rabbit_common exited with reason: stopped
+2022-06-13 14:51:08.694 [info] <0.44.0> Application credentials_obfuscation exited with reason: stopped
+2022-06-13 14:51:08.695 [info] <0.44.0> Application recon exited with reason: stopped
+2022-06-13 14:51:08.695 [info] <0.44.0> Application jsx exited with reason: stopped
+2022-06-13 14:51:08.695 [info] <0.44.0> Application tools exited with reason: stopped
+2022-06-13 14:51:08.696 [info] <0.44.0> Application sasl exited with reason: stopped
+2022-06-13 14:51:08.696 [info] <0.44.0> Application xmerl exited with reason: stopped
+2022-06-13 14:51:47.182 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-13 14:51:47.186 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-13 14:51:47.191 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-13 14:51:47.191 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-13 14:51:47.191 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-13 14:51:47.191 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-13 14:51:47.234 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-13 14:51:47.234 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-13 14:51:47.243 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-13 14:51:47.246 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-13 14:51:47.247 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-13 14:53:08.078 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-13 14:53:08.083 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-13 14:53:08.088 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-13 14:53:08.088 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-13 14:53:08.088 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-13 14:53:08.088 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-13 14:53:08.146 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-13 14:53:08.146 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-13 14:53:08.158 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-13 14:53:08.161 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-13 14:53:08.169 [error] <0.302.0> Supervisor 'Elixir.ChatRabbitmq.Supervisor' had child 'Elixir.ChatRabbitmq.WorkerReceiveMessage' started with 'Elixir.ChatRabbitmq.WorkerReceiveMessage':start_link(nil) at undefined exit with reason {already_started,<0.303.0>} in context start_error
+2022-06-13 14:53:08.169 [error] <0.300.0> CRASH REPORT Process <0.300.0> with 0 neighbours exited with reason: {{shutdown,{failed_to_start_child,'Elixir.ChatRabbitmq.WorkerReceiveMessage',{already_started,<0.303.0>}}},{'Elixir.ChatRabbitmq.Application',start,[normal,[]]}} in application_master:init/4 line 142
+2022-06-13 14:53:08.169 [info] <0.44.0> Application chat_rabbitmq exited with reason: {{shutdown,{failed_to_start_child,'Elixir.ChatRabbitmq.WorkerReceiveMessage',{already_started,<0.303.0>}}},{'Elixir.ChatRabbitmq.Application',start,[normal,[]]}}
+2022-06-13 14:53:08.177 [info] <0.44.0> Application amqp exited with reason: stopped
+2022-06-13 14:53:08.181 [info] <0.44.0> Application amqp_client exited with reason: stopped
+2022-06-13 14:53:08.181 [info] <0.44.0> Application rabbit_common exited with reason: stopped
+2022-06-13 14:53:08.182 [info] <0.44.0> Application credentials_obfuscation exited with reason: stopped
+2022-06-13 14:53:08.182 [info] <0.44.0> Application recon exited with reason: stopped
+2022-06-13 14:53:08.182 [info] <0.44.0> Application jsx exited with reason: stopped
+2022-06-13 14:53:08.182 [info] <0.44.0> Application tools exited with reason: stopped
+2022-06-13 14:53:08.183 [info] <0.44.0> Application sasl exited with reason: stopped
+2022-06-13 14:53:08.183 [info] <0.44.0> Application xmerl exited with reason: stopped
+2022-06-13 14:54:40.440 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-13 14:54:40.444 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-13 14:54:40.453 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-13 14:54:40.453 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-13 14:54:40.453 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-13 14:54:40.453 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-13 14:54:40.509 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-13 14:54:40.509 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-13 14:54:40.520 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-13 14:54:40.526 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-13 14:54:40.528 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-13 15:01:14.600 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-13 15:01:14.603 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-13 15:01:14.611 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-13 15:01:14.611 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-13 15:01:14.611 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-13 15:01:14.611 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-13 15:01:14.655 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-13 15:01:14.655 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-13 15:01:14.667 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-13 15:01:14.671 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-13 15:01:14.673 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-13 15:02:24.647 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-13 15:02:24.649 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-13 15:02:24.654 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-13 15:02:24.654 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-13 15:02:24.654 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-13 15:02:24.654 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-13 15:02:24.706 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-13 15:02:24.706 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-13 15:02:24.718 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-13 15:02:24.722 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-13 15:02:24.726 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-13 15:02:54.611 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-13 15:02:54.613 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-13 15:02:54.617 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-13 15:02:54.617 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-13 15:02:54.618 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-13 15:02:54.618 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-13 15:02:54.668 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-13 15:02:54.668 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-13 15:02:54.681 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-13 15:02:54.685 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-13 15:02:54.691 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-13 15:03:50.673 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-13 15:03:50.677 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-13 15:03:50.686 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-13 15:03:50.686 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-13 15:03:50.686 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-13 15:03:50.686 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-13 15:03:50.737 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-13 15:03:50.737 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-13 15:03:50.745 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-13 15:03:50.750 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-13 15:03:50.753 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-13 15:04:18.791 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-13 15:04:18.796 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-13 15:04:18.803 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-13 15:04:18.803 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-13 15:04:18.803 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-13 15:04:18.803 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-13 15:04:18.848 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-13 15:04:18.848 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-13 15:04:18.864 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-13 15:04:18.869 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-13 15:04:18.871 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-13 15:08:05.331 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-13 15:08:05.334 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-13 15:08:05.340 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-13 15:08:05.340 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-13 15:08:05.340 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-13 15:08:05.340 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-13 15:08:05.400 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-13 15:08:05.400 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-13 15:08:05.416 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-13 15:08:05.419 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-13 15:08:05.422 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-13 15:08:56.498 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-13 15:08:56.500 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-13 15:08:56.504 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-13 15:08:56.504 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-13 15:08:56.504 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-13 15:08:56.505 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-13 15:08:56.549 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-13 15:08:56.549 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-13 15:08:56.557 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-13 15:08:56.561 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-13 15:08:56.566 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-13 15:09:45.563 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-13 15:09:45.565 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-13 15:09:45.569 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-13 15:09:45.569 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-13 15:09:45.569 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-13 15:09:45.569 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-13 15:09:45.619 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-13 15:09:45.619 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-13 15:09:45.628 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-13 15:09:45.632 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-13 15:09:45.636 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-13 15:10:47.288 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-13 15:10:47.293 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-13 15:10:47.303 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-13 15:10:47.303 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-13 15:10:47.303 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-13 15:10:47.303 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-13 15:10:47.347 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-13 15:10:47.347 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-13 15:10:47.355 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-13 15:10:47.358 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-13 15:10:47.362 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-13 15:10:56.907 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-13 15:10:56.911 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-13 15:10:56.918 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-13 15:10:56.918 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-13 15:10:56.918 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-13 15:10:56.918 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-13 15:10:56.969 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-13 15:10:56.969 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-13 15:10:56.979 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-13 15:10:56.984 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-13 15:10:56.986 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-13 15:15:11.498 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-13 15:15:11.500 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-13 15:15:11.504 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-13 15:15:11.504 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-13 15:15:11.504 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-13 15:15:11.504 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-13 15:15:11.554 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-13 15:15:11.554 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-13 15:15:11.565 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-13 15:15:11.568 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-13 15:15:11.570 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-13 15:15:29.001 [error] <0.304.0> gen_server worker terminated with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.WorkerSendMessage':handle_cast/2 line 19
+2022-06-13 15:15:29.014 [error] <0.304.0> CRASH REPORT Process worker with 0 neighbours crashed with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.WorkerSendMessage':handle_cast/2 line 19
+2022-06-13 15:15:29.015 [error] <0.303.0> Supervisor 'Elixir.ChatRabbitmq.Supervisor' had child 'Elixir.ChatRabbitmq.WorkerSendMessage' started with 'Elixir.ChatRabbitmq.WorkerSendMessage':start_link(nil) at <0.304.0> exit with reason #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.WorkerSendMessage':handle_cast/2 line 19 in context child_terminated
+2022-06-13 15:15:38.093 [error] <0.330.0> gen_server worker terminated with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.WorkerSendMessage':handle_cast/2 line 19
+2022-06-13 15:15:38.093 [error] <0.330.0> CRASH REPORT Process worker with 0 neighbours crashed with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.WorkerSendMessage':handle_cast/2 line 19
+2022-06-13 15:15:38.094 [error] <0.303.0> Supervisor 'Elixir.ChatRabbitmq.Supervisor' had child 'Elixir.ChatRabbitmq.WorkerSendMessage' started with 'Elixir.ChatRabbitmq.WorkerSendMessage':start_link(nil) at <0.330.0> exit with reason #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.WorkerSendMessage':handle_cast/2 line 19 in context child_terminated
+2022-06-13 15:15:39.173 [error] <0.337.0> gen_server worker terminated with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.WorkerSendMessage':handle_cast/2 line 19
+2022-06-13 15:15:39.175 [error] <0.337.0> CRASH REPORT Process worker with 0 neighbours crashed with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.WorkerSendMessage':handle_cast/2 line 19
+2022-06-13 15:15:39.176 [error] <0.303.0> Supervisor 'Elixir.ChatRabbitmq.Supervisor' had child 'Elixir.ChatRabbitmq.WorkerSendMessage' started with 'Elixir.ChatRabbitmq.WorkerSendMessage':start_link(nil) at <0.337.0> exit with reason #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.WorkerSendMessage':handle_cast/2 line 19 in context child_terminated
+2022-06-13 15:15:39.828 [error] <0.356.0> gen_server worker terminated with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.WorkerSendMessage':handle_cast/2 line 19
+2022-06-13 15:15:39.829 [error] <0.356.0> CRASH REPORT Process worker with 0 neighbours crashed with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.WorkerSendMessage':handle_cast/2 line 19
+2022-06-13 15:15:39.830 [error] <0.303.0> Supervisor 'Elixir.ChatRabbitmq.Supervisor' had child 'Elixir.ChatRabbitmq.WorkerSendMessage' started with 'Elixir.ChatRabbitmq.WorkerSendMessage':start_link(nil) at <0.356.0> exit with reason #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.WorkerSendMessage':handle_cast/2 line 19 in context child_terminated
+2022-06-13 15:15:40.404 [error] <0.365.0> gen_server worker terminated with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.WorkerSendMessage':handle_cast/2 line 19
+2022-06-13 15:15:40.405 [error] <0.365.0> CRASH REPORT Process worker with 0 neighbours crashed with reason: #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.WorkerSendMessage':handle_cast/2 line 19
+2022-06-13 15:15:40.406 [error] <0.303.0> Supervisor 'Elixir.ChatRabbitmq.Supervisor' had child 'Elixir.ChatRabbitmq.WorkerSendMessage' started with 'Elixir.ChatRabbitmq.WorkerSendMessage':start_link(nil) at <0.365.0> exit with reason #{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Informe um valor vÃ¡lido!!">>} in 'Elixir.ChatRabbitmq.WorkerSendMessage':handle_cast/2 line 19 in context child_terminated
+2022-06-13 15:15:40.406 [error] <0.303.0> Supervisor 'Elixir.ChatRabbitmq.Supervisor' had child 'Elixir.ChatRabbitmq.WorkerSendMessage' started with 'Elixir.ChatRabbitmq.WorkerSendMessage':start_link(nil) at <0.365.0> exit with reason reached_max_restart_intensity in context shutdown
+2022-06-13 15:15:40.407 [info] <0.44.0> Application chat_rabbitmq exited with reason: shutdown
+2022-06-13 15:15:54.664 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-13 15:15:54.666 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-13 15:15:54.674 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-13 15:15:54.675 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-13 15:15:54.675 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-13 15:15:54.675 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-13 15:15:54.720 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-13 15:15:54.720 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-13 15:15:54.735 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-13 15:15:54.739 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-13 15:15:54.745 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-13 15:20:31.568 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-13 15:20:31.571 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-13 15:20:31.575 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-13 15:20:31.575 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-13 15:20:31.576 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-13 15:20:31.576 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-13 15:20:31.622 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-13 15:20:31.622 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-13 15:20:31.632 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-13 15:20:31.638 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-13 15:20:31.639 [info] <0.44.0> Application chat_rabbitmq started on node nonode@nohost
+2022-06-13 15:23:13.757 [info] <0.44.0> Application lager started on node nonode@nohost
+2022-06-13 15:23:13.761 [info] <0.44.0> Application xmerl started on node nonode@nohost
+2022-06-13 15:23:13.767 [info] <0.44.0> Application sasl started on node nonode@nohost
+2022-06-13 15:23:13.767 [info] <0.44.0> Application tools started on node nonode@nohost
+2022-06-13 15:23:13.767 [info] <0.44.0> Application jsx started on node nonode@nohost
+2022-06-13 15:23:13.767 [info] <0.44.0> Application recon started on node nonode@nohost
+2022-06-13 15:23:13.819 [info] <0.44.0> Application credentials_obfuscation started on node nonode@nohost
+2022-06-13 15:23:13.819 [info] <0.44.0> Application rabbit_common started on node nonode@nohost
+2022-06-13 15:23:13.829 [info] <0.44.0> Application amqp_client started on node nonode@nohost
+2022-06-13 15:23:13.834 [info] <0.44.0> Application amqp started on node nonode@nohost
+2022-06-13 15:23:13.841 [error] <0.309.0>@Elixir.IO:inspect Supervisor 'Elixir.ChatRabbitmq.Supervisor' had child 'Elixir.ChatRabbitmq.WorkerReceiveMessage' started with 'Elixir.ChatRabbitmq.WorkerReceiveMessage':start_link(nil) at undefined exit with reason call to undefined function 'Elixir.IO':inspect() in context start_error
+2022-06-13 15:23:13.842 [error] <0.307.0> CRASH REPORT Process <0.307.0> with 0 neighbours exited with reason: {{shutdown,{failed_to_start_child,'Elixir.ChatRabbitmq.WorkerReceiveMessage',{undef,[{'Elixir.IO',inspect,[],[]},{'Elixir.ChatRabbitmq.WorkerReceiveMessage',init,1,[{file,"lib/chat_rabbitmq/worker_receive_message.ex"},{line,5}]},{gen_server,init_it,2,[{file,"gen_server.erl"},{line,848}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,811}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}}},{'Elixir.ChatRabbitmq.Application',start,[normal,[]]}} in application_master:init/4 line 142
+2022-06-13 15:23:13.842 [info] <0.44.0> Application chat_rabbitmq exited with reason: {{shutdown,{failed_to_start_child,'Elixir.ChatRabbitmq.WorkerReceiveMessage',{undef,[{'Elixir.IO',inspect,[],[]},{'Elixir.ChatRabbitmq.WorkerReceiveMessage',init,1,[{file,"lib/chat_rabbitmq/worker_receive_message.ex"},{line,5}]},{gen_server,init_it,2,[{file,"gen_server.erl"},{line,848}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,811}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}}},{'Elixir.ChatRabbitmq.Application',start,[normal,[]]}}
+2022-06-13 15:23:13.851 [info] <0.44.0> Application amqp exited with reason: stopped
+2022-06-13 15:23:13.853 [info] <0.44.0> Application amqp_client exited with reason: stopped
+2022-06-13 15:23:13.853 [info] <0.44.0> Application rabbit_common exited with reason: stopped
+2022-06-13 15:23:13.854 [info] <0.44.0> Application credentials_obfuscation exited with reason: stopped
+2022-06-13 15:23:13.854 [info] <0.44.0> Application recon exited with reason: stopped
+2022-06-13 15:23:13.854 [info] <0.44.0> Application jsx exited with reason: stopped
+2022-06-13 15:23:13.854 [info] <0.44.0> Application tools exited with reason: stopped
+2022-06-13 15:23:13.854 [info] <0.44.0> Application sasl exited with reason: stopped
+2022-06-13 15:23:13.855 [info] <0.44.0> Application xmerl exited with reason: stopped

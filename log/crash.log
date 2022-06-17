@@ -1,0 +1,58 @@
+2022-06-17 09:31:41 =ERROR REPORT====
+** Generic server 'Elixir.WorkerTutorial.Server' terminating 
+** Last message in was {'$gen_cast',{run,8}}
+** When Server state == nil
+** Reason for termination ==
+** {#{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Erro">>},[{'Elixir.WorkerTutorial.Server',handle_cast,2,[{file,"lib/worker_tutorial/server.ex"},{line,15},{error_info,#{module => 'Elixir.Exception'}}]},{gen_server,try_dispatch,4,[{file,"gen_server.erl"},{line,1120}]},{gen_server,handle_msg,6,[{file,"gen_server.erl"},{line,1197}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+2022-06-17 09:31:41 =CRASH REPORT====
+  crasher:
+    initial call: Elixir.WorkerTutorial.Server:init/1
+    pid: <0.324.0>
+    registered_name: 'Elixir.WorkerTutorial.Server'
+    exception error: {#{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Erro">>},[{'Elixir.WorkerTutorial.Server',handle_cast,2,[{file,"lib/worker_tutorial/server.ex"},{line,15},{error_info,#{module => 'Elixir.Exception'}}]},{gen_server,try_dispatch,4,[{file,"gen_server.erl"},{line,1120}]},{gen_server,handle_msg,6,[{file,"gen_server.erl"},{line,1197}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: ['Elixir.WorkerTutorial.Supervisor',<0.322.0>]
+    message_queue_len: 0
+    messages: []
+    links: [<0.323.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 10958
+    stack_size: 28
+    reductions: 3696
+  neighbours:
+2022-06-17 09:31:41 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.WorkerTutorial.Supervisor'}
+     Context:    child_terminated
+     Reason:     {#{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Erro">>},[{'Elixir.WorkerTutorial.Server',handle_cast,2,[{file,"lib/worker_tutorial/server.ex"},{line,15},{error_info,#{module => 'Elixir.Exception'}}]},{gen_server,try_dispatch,4,[{file,"gen_server.erl"},{line,1120}]},{gen_server,handle_msg,6,[{file,"gen_server.erl"},{line,1197}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+     Offender:   [{pid,<0.324.0>},{id,'Elixir.WorkerTutorial.Server'},{mfargs,{'Elixir.WorkerTutorial.Server',start_link,[nil]}},{restart_type,permanent},{significant,false},{shutdown,5000},{child_type,worker}]
+
+2022-06-17 09:31:43 =ERROR REPORT====
+** Generic server 'Elixir.WorkerTutorial.Server' terminating 
+** Last message in was {'$gen_cast',{run,10}}
+** When Server state == nil
+** Reason for termination ==
+** {#{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Erro">>},[{'Elixir.WorkerTutorial.Server',handle_cast,2,[{file,"lib/worker_tutorial/server.ex"},{line,19},{error_info,#{module => 'Elixir.Exception'}}]},{gen_server,try_dispatch,4,[{file,"gen_server.erl"},{line,1120}]},{gen_server,handle_msg,6,[{file,"gen_server.erl"},{line,1197}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+2022-06-17 09:31:43 =CRASH REPORT====
+  crasher:
+    initial call: Elixir.WorkerTutorial.Server:init/1
+    pid: <0.327.0>
+    registered_name: 'Elixir.WorkerTutorial.Server'
+    exception error: {#{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Erro">>},[{'Elixir.WorkerTutorial.Server',handle_cast,2,[{file,"lib/worker_tutorial/server.ex"},{line,19},{error_info,#{module => 'Elixir.Exception'}}]},{gen_server,try_dispatch,4,[{file,"gen_server.erl"},{line,1120}]},{gen_server,handle_msg,6,[{file,"gen_server.erl"},{line,1197}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: ['Elixir.WorkerTutorial.Supervisor',<0.322.0>]
+    message_queue_len: 0
+    messages: []
+    links: [<0.323.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 10958
+    stack_size: 28
+    reductions: 3202
+  neighbours:
+2022-06-17 09:31:43 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.WorkerTutorial.Supervisor'}
+     Context:    child_terminated
+     Reason:     {#{'__exception__' => true,'__struct__' => 'Elixir.RuntimeError',message => <<"Erro">>},[{'Elixir.WorkerTutorial.Server',handle_cast,2,[{file,"lib/worker_tutorial/server.ex"},{line,19},{error_info,#{module => 'Elixir.Exception'}}]},{gen_server,try_dispatch,4,[{file,"gen_server.erl"},{line,1120}]},{gen_server,handle_msg,6,[{file,"gen_server.erl"},{line,1197}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+     Offender:   [{pid,<0.327.0>},{id,'Elixir.WorkerTutorial.Server'},{mfargs,{'Elixir.WorkerTutorial.Server',start_link,[nil]}},{restart_type,permanent},{significant,false},{shutdown,5000},{child_type,worker}]
+
